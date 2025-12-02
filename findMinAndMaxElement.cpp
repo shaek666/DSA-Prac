@@ -1,7 +1,5 @@
-#include <iostream>
-#include <vector>
-#include <optional>
-#include <algorithm>
+#include <bits/stdc++.h>
+
 using namespace std;
 
 optional<pair<int, int>> findPeakOrLow(const vector<int>& vec, int choice) {
